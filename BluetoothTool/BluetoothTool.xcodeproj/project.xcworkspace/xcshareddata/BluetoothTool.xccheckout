@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>85B63736-5138-41B7-A261-D96D7229910E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BluetoothTool</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>04fc5e70-02aa-2d47-96ea-74b3e080b323++4146</key>
+		<string>https://192.168.0.106/svn/AgLogica/AndroidConsole/trunk/PetConsole</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MFITool/BluetoothTool/BluetoothTool.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>04fc5e70-02aa-2d47-96ea-74b3e080b323++4146</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>04fc5e70-02aa-2d47-96ea-74b3e080b323++4146</key>
+		<string>https://192.168.0.106/svn/AgLogica</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://192.168.0.106/svn/AgLogica/AndroidConsole/trunk/PetConsole/MFITool/BluetoothTool/BluetoothTool.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>04fc5e70-02aa-2d47-96ea-74b3e080b323++4146</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>04fc5e70-02aa-2d47-96ea-74b3e080b323++4146</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Project</string>
+		</dict>
+	</array>
+</dict>
+</plist>
